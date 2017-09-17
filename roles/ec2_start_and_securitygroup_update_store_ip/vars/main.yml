@@ -1,0 +1,10 @@
+---
+aws_access_key: "A******************"
+aws_secret_key: "Xz***********************************Yv"
+aws_region: "us-east-1"
+vpc_id: "vpc-e4c19d83"
+vpc_subnet_id: "subnet-ace216e3"
+instance_ids1: "i-080b16942367582b3"
+your_ip1: 1.2.3.4
+your_ip2: 11.22.33.44
+your_ip3: 111.222.32.43

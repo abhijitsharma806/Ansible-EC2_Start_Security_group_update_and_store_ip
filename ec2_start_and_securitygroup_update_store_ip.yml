@@ -1,0 +1,6 @@
+---
+  - hosts: localhost
+    connection: local
+    gather_facts: no
+    roles:
+     - ec2_start_and_securitygroup_update_store_ip
